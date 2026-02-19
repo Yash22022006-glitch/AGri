@@ -1,0 +1,9 @@
+{
+  "name": "AgriFlow - The Farmer's Digital Companion",
+  "description": "A comprehensive platform for farmers featuring local community chats, AI-driven crop advisory, real-time field monitoring, government scheme tracking, and smart financial planning.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
